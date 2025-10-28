@@ -1192,7 +1192,7 @@ IronTailDescription:
 	next "reduce DEFENSE.@"
 
 MetalClawDescription:
-	db   "An attack that may"
+	db   "An attack that will"
 	next "up user's ATTACK.@"
 
 VitalThrowDescription:
