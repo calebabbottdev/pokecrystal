@@ -6,429 +6,429 @@ JohtoGrassWildMons:
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
 	;  %, species,		min, max
-	db 30, RATTATA, 	  8,  10
-	db 30, RATTATA, 	  8,  10
-	db 20, RATTATA, 	  8,  10
-	db 10, RATTATA, 	  8,  10
-	db  5, RATTATA, 	  8,  10
-	db  4, RATTATA, 	  8,  10
-	db  1, RATTATA, 	  8,  10
+	db 100, RATTATA, 	  6,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 
 	; day
 	;  %, species,		min, max
-	db 30, RATTATA, 	  8,  10
-	db 30, RATTATA, 	  8,  10
-	db 20, RATTATA, 	  8,  10
-	db 10, RATTATA, 	  8,  10
-	db  5, RATTATA, 	  8,  10
-	db  4, RATTATA, 	  8,  10
-	db  1, RATTATA, 	  8,  10
+	db 100, RATTATA, 	  6,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 
 	; nite
 	;  %, species,		min, max
-	db 30, RATTATA, 	  8,  10
-	db 30, RATTATA, 	  8,  10
-	db 20, RATTATA, 	  8,  10
-	db 10, RATTATA, 	  8,  10
-	db  5, RATTATA, 	  8,  10
-	db  4, RATTATA, 	  8,  10
-	db  1, RATTATA, 	  8,  10
+	db  50, RATTATA, 	  6,  10
+	db  50, GASTLY, 	  6,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 	end_grass_wildmons
 
 	def_grass_wildmons SPROUT_TOWER_3F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
 	;  %, species,		min, max
-	db 30, RATTATA, 	  8,  10
-	db 30, RATTATA, 	  8,  10
-	db 20, RATTATA, 	  8,  10
-	db 10, RATTATA, 	  8,  10
-	db  5, RATTATA, 	  8,  10
-	db  4, RATTATA, 	  8,  10
-	db  1, RATTATA, 	  8,  10
+	db 100, RATTATA, 	  6,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 
 	; day
 	;  %, species,		min, max
-	db 30, RATTATA, 	  8,  10
-	db 30, RATTATA, 	  8,  10
-	db 20, RATTATA, 	  8,  10
-	db 10, RATTATA, 	  8,  10
-	db  5, RATTATA, 	  8,  10
-	db  4, RATTATA, 	  8,  10
-	db  1, RATTATA, 	  8,  10
+	db 100, RATTATA, 	  6,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 
 	; nite
 	;  %, species,		min, max
-	db 30, RATTATA, 	  8,  10
-	db 30, RATTATA, 	  8,  10
-	db 20, RATTATA, 	  8,  10
-	db 10, RATTATA, 	  8,  10
-	db  5, RATTATA, 	  8,  10
-	db  4, RATTATA, 	  8,  10
-	db  1, RATTATA, 	  8,  10
+	db  50, RATTATA, 	  6,  10
+	db  50, GASTLY, 	  6,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 	end_grass_wildmons
 
 	def_grass_wildmons TIN_TOWER_2F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
 	;  %, species,		min, max
-	db 30, RATTATA, 	  3,   6
-	db 30, RATTATA, 	  3,   6
-	db 20, RATTATA, 	  3,   6
-	db 10, RATTATA, 	  3,   6
-	db  5, RATTATA, 	  3,   6
-	db  4, RATTATA, 	  3,   6
-	db  1, RATTATA, 	  3,   6
+	db  50, RATTATA, 	 20,  24
+	db  50, GASTLY, 	 20,  24
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 
 	; day
 	;  %, species,		min, max
-	db 30, RATTATA, 	  3,   6
-	db 30, RATTATA, 	  3,   6
-	db 20, RATTATA, 	  3,   6
-	db 10, RATTATA, 	  3,   6
-	db  5, RATTATA, 	  3,   6
-	db  4, RATTATA, 	  3,   6
-	db  1, RATTATA, 	  3,   6
+	db  50, RATTATA, 	 20,  24
+	db  50, GASTLY, 	 20,  24
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 
 	; nite
 	;  %, species,		min, max
-	db 30, GASTLY, 		  3,   6
-	db 30, GASTLY, 		  3,   6
-	db 20, GASTLY, 		  3,   6
-	db 10, RATTATA, 	  3,   5
-	db  5, GASTLY, 		  3,   6
-	db  4, RATTATA, 	  3,   5
-	db  1, RATTATA, 	  3,   5
+	db  50, RATTATA, 	 20,  24
+	db  50, GASTLY, 	 20,  24
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 	end_grass_wildmons
 
 	def_grass_wildmons TIN_TOWER_3F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
 	;  %, species,		min, max
-	db 30, RATTATA, 	  3,   6
-	db 30, RATTATA, 	  3,   6
-	db 20, RATTATA, 	  3,   6
-	db 10, RATTATA, 	  3,   6
-	db  5, RATTATA, 	  3,   6
-	db  4, RATTATA, 	  3,   6
-	db  1, RATTATA, 	  3,   6
+	db  50, RATTATA, 	 20,  24
+	db  50, GASTLY, 	 20,  24
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 
 	; day
 	;  %, species,		min, max
-	db 30, RATTATA, 	  3,   6
-	db 30, RATTATA, 	  3,   6
-	db 20, RATTATA, 	  3,   6
-	db 10, RATTATA, 	  3,   6
-	db  5, RATTATA, 	  3,   6
-	db  4, RATTATA, 	  3,   6
-	db  1, RATTATA, 	  3,   6
+	db  50, RATTATA, 	 20,  24
+	db  50, GASTLY, 	 20,  24
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 
 	; nite
 	;  %, species,		min, max
-	db 30, GASTLY, 		  3,   6
-	db 30, GASTLY, 		  3,   6
-	db 20, GASTLY, 		  3,   6
-	db 10, RATTATA, 	  3,   5
-	db  5, GASTLY, 		  3,   6
-	db  4, RATTATA, 	  3,   5
-	db  1, RATTATA, 	  3,   5
+	db  50, RATTATA, 	 20,  24
+	db  50, GASTLY, 	 20,  24
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 	end_grass_wildmons
 
 	def_grass_wildmons TIN_TOWER_4F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
 	;  %, species,		min, max
-	db 30, RATTATA, 	  3,   6
-	db 30, RATTATA, 	  3,   6
-	db 20, RATTATA, 	  3,   6
-	db 10, RATTATA, 	  3,   6
-	db  5, RATTATA, 	  3,   6
-	db  4, RATTATA, 	  3,   6
-	db  1, RATTATA, 	  3,   6
+	db  50, RATTATA, 	 20,  24
+	db  50, GASTLY, 	 20,  24
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 
 	; day
 	;  %, species,		min, max
-	db 30, RATTATA, 	  3,   6
-	db 30, RATTATA, 	  3,   6
-	db 20, RATTATA, 	  3,   6
-	db 10, RATTATA, 	  3,   6
-	db  5, RATTATA, 	  3,   6
-	db  4, RATTATA, 	  3,   6
-	db  1, RATTATA, 	  3,   6
+	db  50, RATTATA, 	 20,  24
+	db  50, GASTLY, 	 20,  24
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 
 	; nite
 	;  %, species,		min, max
-	db 30, GASTLY, 		  3,   6
-	db 30, GASTLY, 		  3,   6
-	db 20, GASTLY, 		  3,   6
-	db 10, RATTATA, 	  3,   5
-	db  5, GASTLY, 		  3,   6
-	db  4, RATTATA, 	  3,   5
-	db  1, RATTATA, 	  3,   5
+	db  50, RATTATA, 	 20,  24
+	db  50, GASTLY, 	 20,  24
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 	end_grass_wildmons
 
 	def_grass_wildmons TIN_TOWER_5F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
 	;  %, species,		min, max
-	db 30, RATTATA, 	  3,   6
-	db 30, RATTATA, 	  3,   6
-	db 20, RATTATA, 	  3,   6
-	db 10, RATTATA, 	  3,   6
-	db  5, RATTATA, 	  3,   6
-	db  4, RATTATA, 	  3,   6
-	db  1, RATTATA, 	  3,   6
+	db  50, RATTATA, 	 20,  24
+	db  50, GASTLY, 	 20,  24
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 
 	; day
 	;  %, species,		min, max
-	db 30, RATTATA, 	  3,   6
-	db 30, RATTATA, 	  3,   6
-	db 20, RATTATA, 	  3,   6
-	db 10, RATTATA, 	  3,   6
-	db  5, RATTATA, 	  3,   6
-	db  4, RATTATA, 	  3,   6
-	db  1, RATTATA, 	  3,   6
+	db  50, RATTATA, 	 20,  24
+	db  50, GASTLY, 	 20,  24
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 
 	; nite
 	;  %, species,		min, max
-	db 30, GASTLY, 		  3,   6
-	db 30, GASTLY, 		  3,   6
-	db 20, GASTLY, 		  3,   6
-	db 10, RATTATA, 	  3,   5
-	db  5, GASTLY, 		  3,   6
-	db  4, RATTATA, 	  3,   5
-	db  1, RATTATA, 	  3,   5
+	db  50, RATTATA, 	 20,  24
+	db  50, GASTLY, 	 20,  24
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 	end_grass_wildmons
 
 	def_grass_wildmons TIN_TOWER_6F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
 	;  %, species,		min, max
-	db 30, RATTATA, 	  3,   6
-	db 30, RATTATA, 	  3,   6
-	db 20, RATTATA, 	  3,   6
-	db 10, RATTATA, 	  3,   6
-	db  5, RATTATA, 	  3,   6
-	db  4, RATTATA, 	  3,   6
-	db  1, RATTATA, 	  3,   6
+	db  50, RATTATA, 	 20,  24
+	db  50, GASTLY, 	 20,  24
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 
 	; day
 	;  %, species,		min, max
-	db 30, RATTATA, 	  3,   6
-	db 30, RATTATA, 	  3,   6
-	db 20, RATTATA, 	  3,   6
-	db 10, RATTATA, 	  3,   6
-	db  5, RATTATA, 	  3,   6
-	db  4, RATTATA, 	  3,   6
-	db  1, RATTATA, 	  3,   6
+	db  50, RATTATA, 	 20,  24
+	db  50, GASTLY, 	 20,  24
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 
 	; nite
 	;  %, species,		min, max
-	db 30, GASTLY, 		  3,   6
-	db 30, GASTLY, 		  3,   6
-	db 20, GASTLY, 		  3,   6
-	db 10, RATTATA, 	  3,   5
-	db  5, GASTLY, 		  3,   6
-	db  4, RATTATA, 	  3,   5
-	db  1, RATTATA, 	  3,   5
+	db  50, RATTATA, 	 20,  24
+	db  50, GASTLY, 	 20,  24
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 	end_grass_wildmons
 
 	def_grass_wildmons TIN_TOWER_7F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
 	;  %, species,		min, max
-	db 30, RATTATA, 	  3,   6
-	db 30, RATTATA, 	  3,   6
-	db 20, RATTATA, 	  3,   6
-	db 10, RATTATA, 	  3,   6
-	db  5, RATTATA, 	  3,   6
-	db  4, RATTATA, 	  3,   6
-	db  1, RATTATA, 	  3,   6
+	db  50, RATTATA, 	 20,  24
+	db  50, GASTLY, 	 20,  24
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 
 	; day
 	;  %, species,		min, max
-	db 30, RATTATA, 	  3,   6
-	db 30, RATTATA, 	  3,   6
-	db 20, RATTATA, 	  3,   6
-	db 10, RATTATA, 	  3,   6
-	db  5, RATTATA, 	  3,   6
-	db  4, RATTATA, 	  3,   6
-	db  1, RATTATA, 	  3,   6
+	db  50, RATTATA, 	 20,  24
+	db  50, GASTLY, 	 20,  24
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 
 	; nite
 	;  %, species,		min, max
-	db 30, GASTLY, 		  3,   6
-	db 30, GASTLY, 		  3,   6
-	db 20, GASTLY, 		  3,   6
-	db 10, RATTATA, 	  3,   5
-	db  5, GASTLY, 		  3,   6
-	db  4, RATTATA, 	  3,   5
-	db  1, RATTATA, 	  3,   5
+	db  50, RATTATA, 	 20,  24
+	db  50, GASTLY, 	 20,  24
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 	end_grass_wildmons
 
 	def_grass_wildmons TIN_TOWER_8F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
 	;  %, species,		min, max
-	db 30, RATTATA, 	  3,   6
-	db 30, RATTATA, 	  3,   6
-	db 20, RATTATA, 	  3,   6
-	db 10, RATTATA, 	  3,   6
-	db  5, RATTATA, 	  3,   6
-	db  4, RATTATA, 	  3,   6
-	db  1, RATTATA, 	  3,   6
+	db  50, RATTATA, 	 20,  24
+	db  50, GASTLY, 	 20,  24
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 
 	; day
 	;  %, species,		min, max
-	db 30, RATTATA, 	  3,   6
-	db 30, RATTATA, 	  3,   6
-	db 20, RATTATA, 	  3,   6
-	db 10, RATTATA, 	  3,   6
-	db  5, RATTATA, 	  3,   6
-	db  4, RATTATA, 	  3,   6
-	db  1, RATTATA, 	  3,   6
+	db  50, RATTATA, 	 20,  24
+	db  50, GASTLY, 	 20,  24
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 
 	; nite
 	;  %, species,		min, max
-	db 30, GASTLY, 		  3,   6
-	db 30, GASTLY, 		  3,   6
-	db 20, GASTLY, 		  3,   6
-	db 10, RATTATA, 	  3,   5
-	db  5, GASTLY, 		  3,   6
-	db  4, RATTATA, 	  3,   5
-	db  1, RATTATA, 	  3,   5
+	db  50, RATTATA, 	 20,  24
+	db  50, GASTLY, 	 20,  24
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 	end_grass_wildmons
 
 	def_grass_wildmons TIN_TOWER_9F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
 	;  %, species,		min, max
-	db 30, RATTATA, 	  3,   6
-	db 30, RATTATA, 	  3,   6
-	db 20, RATTATA, 	  3,   6
-	db 10, RATTATA, 	  3,   6
-	db  5, RATTATA, 	  3,   6
-	db  4, RATTATA, 	  3,   6
-	db  1, RATTATA, 	  3,   6
+	db  50, RATTATA, 	 20,  24
+	db  50, GASTLY, 	 20,  24
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 
 	; day
 	;  %, species,		min, max
-	db 30, RATTATA, 	  3,   6
-	db 30, RATTATA, 	  3,   6
-	db 20, RATTATA, 	  3,   6
-	db 10, RATTATA, 	  3,   6
-	db  5, RATTATA, 	  3,   6
-	db  4, RATTATA, 	  3,   6
-	db  1, RATTATA, 	  3,   6
+	db  50, RATTATA, 	 20,  24
+	db  50, GASTLY, 	 20,  24
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 
 	; nite
 	;  %, species,		min, max
-	db 30, GASTLY, 		  3,   6
-	db 30, GASTLY, 		  3,   6
-	db 20, GASTLY, 		  3,   6
-	db 10, RATTATA, 	  3,   5
-	db  5, GASTLY, 		  3,   6
-	db  4, RATTATA, 	  3,   5
-	db  1, RATTATA, 	  3,   5
+	db  50, RATTATA, 	 20,  24
+	db  50, GASTLY, 	 20,  24
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
+	db   0, RATTATA, 	  8,  10
 	end_grass_wildmons
 
 	def_grass_wildmons BURNED_TOWER_1F
 	db 4 percent, 4 percent, 4 percent ; encounter rates: morn/day/nite
 	; morn
 	;  %, species,		min, max
-	db 30, RATTATA, 	  3,   6
-	db 30, RATTATA, 	  3,   6
-	db 20, RATTATA, 	  3,   6
-	db 10, RATTATA, 	  3,   6
-	db  5, RATTATA, 	  3,   6
-	db  4, RATTATA, 	  3,   6
-	db  1, RATTATA, 	  3,   6
+	db 25, RATTATA, 	 13,  16
+	db 25, RATICATE, 	 14,  17
+	db 25, KOFFING, 	 13,  16
+	db 25, ZUBAT, 	  	 13,  16
+	db  0, RATTATA, 	  3,   6
+	db  0, RATTATA, 	  3,   6
+	db  0, RATTATA, 	  3,   6
 
 	; day
 	;  %, species,		min, max
-	db 30, RATTATA, 	  3,   6
-	db 30, RATTATA, 	  3,   6
-	db 20, RATTATA, 	  3,   6
-	db 10, RATTATA, 	  3,   6
-	db  5, RATTATA, 	  3,   6
-	db  4, RATTATA, 	  3,   6
-	db  1, RATTATA, 	  3,   6
+	db 25, RATTATA, 	 13,  16
+	db 25, RATICATE, 	 14,  17
+	db 25, KOFFING, 	 13,  16
+	db 25, ZUBAT, 	  	 13,  16
+	db  0, RATTATA, 	  3,   6
+	db  0, RATTATA, 	  3,   6
+	db  0, RATTATA, 	  3,   6
 
 	; nite
 	;  %, species,		min, max
-	db 30, GASTLY, 		  3,   6
-	db 30, GASTLY, 		  3,   6
-	db 20, GASTLY, 		  3,   6
-	db 10, RATTATA, 	  3,   5
-	db  5, GASTLY, 		  3,   6
-	db  4, RATTATA, 	  3,   5
-	db  1, RATTATA, 	  3,   5
+	db 25, RATTATA, 	 13,  16
+	db 25, RATICATE, 	 14,  17
+	db 25, KOFFING, 	 13,  16
+	db 25, ZUBAT, 	  	 13,  16
+	db  0, RATTATA, 	  3,   6
+	db  0, RATTATA, 	  3,   6
+	db  0, RATTATA, 	  3,   6
 	end_grass_wildmons
 
 	def_grass_wildmons BURNED_TOWER_B1F
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	;  %, species,		min, max
-	db 30, RATTATA, 	  3,   6
-	db 30, RATTATA, 	  3,   6
-	db 20, RATTATA, 	  3,   6
-	db 10, RATTATA, 	  3,   6
-	db  5, RATTATA, 	  3,   6
-	db  4, RATTATA, 	  3,   6
-	db  1, RATTATA, 	  3,   6
+	db 25, RATTATA, 	 13,  16
+	db 25, RATICATE, 	 14,  17
+	db 25, KOFFING, 	 13,  16
+	db 25, ZUBAT, 	  	 13,  16
+	db  0, RATTATA, 	  3,   6
+	db  0, RATTATA, 	  3,   6
+	db  0, RATTATA, 	  3,   6
 
 	; day
 	;  %, species,		min, max
-	db 30, RATTATA, 	  3,   6
-	db 30, RATTATA, 	  3,   6
-	db 20, RATTATA, 	  3,   6
-	db 10, RATTATA, 	  3,   6
-	db  5, RATTATA, 	  3,   6
-	db  4, RATTATA, 	  3,   6
-	db  1, RATTATA, 	  3,   6
+	db 25, RATTATA, 	 13,  16
+	db 25, RATICATE, 	 14,  17
+	db 25, KOFFING, 	 13,  16
+	db 25, ZUBAT, 	  	 13,  16
+	db  0, RATTATA, 	  3,   6
+	db  0, RATTATA, 	  3,   6
+	db  0, RATTATA, 	  3,   6
 
 	; nite
 	;  %, species,		min, max
-	db 30, GASTLY, 		  3,   6
-	db 30, GASTLY, 		  3,   6
-	db 20, GASTLY, 		  3,   6
-	db 10, RATTATA, 	  3,   5
-	db  5, GASTLY, 		  3,   6
-	db  4, RATTATA, 	  3,   5
-	db  1, RATTATA, 	  3,   5
+	db 25, RATTATA, 	 13,  16
+	db 25, RATICATE, 	 14,  17
+	db 25, KOFFING, 	 13,  16
+	db 25, ZUBAT, 	  	 13,  16
+	db  0, RATTATA, 	  3,   6
+	db  0, RATTATA, 	  3,   6
+	db  0, RATTATA, 	  3,   6
 	end_grass_wildmons
 
 	def_grass_wildmons NATIONAL_PARK
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	;  %, species,		min, max
-	db 30, RATTATA, 	  3,   6
-	db 30, RATTATA, 	  3,   6
-	db 20, RATTATA, 	  3,   6
-	db 10, RATTATA, 	  3,   6
-	db  5, RATTATA, 	  3,   6
-	db  4, RATTATA, 	  3,   6
-	db  1, RATTATA, 	  3,   6
+	db 20, NIDORAN_M, 	 13,  15
+	db 20, NIDORAN_F, 	 13,  15
+	db 20, LEDYBA, 	  	 13,  15
+	db 20, PIDGEY, 	  	 13,  15
+	db 10, CATERPIE, 	 13,  15
+	db 10, WEEDLE, 	  	 13,  15
+	db  0, RATTATA, 	 13,  15
 
 	; day
 	;  %, species,		min, max
-	db 30, RATTATA, 	  3,   6
-	db 30, RATTATA, 	  3,   6
-	db 20, RATTATA, 	  3,   6
-	db 10, RATTATA, 	  3,   6
-	db  5, RATTATA, 	  3,   6
-	db  4, RATTATA, 	  3,   6
-	db  1, RATTATA, 	  3,   6
+	db 20, NIDORAN_M, 	 13,  15
+	db 20, NIDORAN_F, 	 13,  15
+	db 20, SUNKERN,	  	 13,  15
+	db 20, PIDGEY, 	  	 13,  15
+	db 10, CATERPIE, 	 13,  15
+	db 10, WEEDLE, 	  	 13,  15
+	db  0, RATTATA, 	 13,  15
 
 	; nite
 	;  %, species,		min, max
-	db 30, GASTLY, 		  3,   6
-	db 30, GASTLY, 		  3,   6
-	db 20, GASTLY, 		  3,   6
-	db 10, RATTATA, 	  3,   5
-	db  5, GASTLY, 		  3,   6
-	db  4, RATTATA, 	  3,   5
-	db  1, RATTATA, 	  3,   5
+	db 20, NIDORAN_M, 	 13,  15
+	db 20, NIDORAN_F, 	 13,  15
+	db 20, SPINARAK, 	 13,  15
+	db 20, MURKROW,	  	 13,  15
+	db 10, CATERPIE, 	 13,  15
+	db 10, WEEDLE, 	  	 13,  15
+	db  0, RATTATA, 	 13,  15
 	end_grass_wildmons
 
 	def_grass_wildmons RUINS_OF_ALPH_OUTSIDE
